@@ -32,3 +32,22 @@ code {
   width: 20rem;
   height: 15rem;
 }
+#supportHero{
+  background-color:	#387ED1;
+  color: white;
+}
+#supportHero a{
+   color: white;
+}
+#supportHero input{
+  height: 4rem;
+  width: 30rem;
+  border-radius: 8px;
+  border:0 solid white;
+}
+
+#supportWrapper{
+  display: flex;
+  justify-content: space-between;
+  margin: 0 5rem 0 5rem;
+}
