@@ -2,11 +2,11 @@ import React from 'react';
 
 function Brokerage() {
     return ( 
-        <div className='container'>
-            <div className='row ms-5'>
+        <div className='container border-top mb-5'>
+            <div className='row ms-5 mt-5'>
                 <div className='col-8'>
-                    <h4 className='text-center mb-4'>Brokerage calculator</h4>
-                    <ul className='text-muted fs-smaller ms-5'>
+                    <a href="" style={{textDecoration:"none"}}><h5 className='text-center mb-4'>Brokerage calculator</h5></a>
+                    <ul className='text-muted fs-7 ms-5' style={{lineHeight:"2.5", fontSize:"14px"}}>
                         <li>Call & Trade and RMS auto-squareoff: Additional charges of ₹50 + GST per order.</li>
                         <li>Digital contract notes will be sent via e‑mail.</li>
                         <li>Physical copies of contract notes, if required, shall be charged ₹20 per contract note. Courier charges apply.</li>
@@ -16,7 +16,7 @@ function Brokerage() {
                     </ul>
                 </div>
                 <div className='col-4'>
-                    <h4>List of charges</h4>
+                    <a href="" style={{textDecoration:"none"}}><h5>List of charges</h5></a>
                 </div>
             </div>
         </div>
