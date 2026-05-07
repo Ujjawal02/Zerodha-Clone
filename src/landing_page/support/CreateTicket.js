@@ -282,27 +282,27 @@ function CreateTicket() {
               <h5 className="mb-3 ps-4 mt-3">Quick links</h5>
               <ol className="list-group list-group-numbered">
                 <li className="list-group-item">
-                  <a href="#" className="text-decoration-none">
+                  <a href="/" className="text-decoration-none">
                     Track account opening
                   </a>
                 </li>
                 <li className="list-group-item">
-                  <a href="#" className="text-decoration-none">
+                  <a href="/" className="text-decoration-none">
                     Track segment activation
                   </a>
                 </li>
                 <li className="list-group-item">
-                  <a href="#" className="text-decoration-none">
+                  <a href="/" className="text-decoration-none">
                     Intraday margins
                   </a>
                 </li>
                 <li className="list-group-item">
-                  <a href="#" className="text-decoration-none">
+                  <a href="/" className="text-decoration-none">
                     Kite user manual
                   </a>
                 </li>
                 <li className="list-group-item">
-                  <a href="#" className="text-decoration-none">
+                  <a href="/" className="text-decoration-none">
                     Learn how to create a ticket
                   </a>
                 </li>

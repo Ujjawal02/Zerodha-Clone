@@ -12,49 +12,49 @@ function Footer() {
                 </div>
                 <div className='col'>
                     <p>Account</p>
-                    <a href="" className="footer-anchor">Open demat account</a> <br/>
-                    <a href="" className="footer-anchor">Minor demat account</a> <br/>
-                    <a href="" className="footer-anchor">NRI demat account</a> <br/>
-                    <a href="" className="footer-anchor">HUF demat account</a> <br/>
-                    <a href="" className="footer-anchor">Commodity</a> <br/>
-                    <a href="" className="footer-anchor">Dematerialisation</a> <br/>
-                    <a href="" className="footer-anchor">Fund transfer</a> <br/>
-                    <a href="" className="footer-anchor">MTF</a>
+                    <a href="/" className="footer-anchor">Open demat account</a> <br/>
+                    <a href="//" className="footer-anchor">Minor demat account</a> <br/>
+                    <a href="/" className="footer-anchor">NRI demat account</a> <br/>
+                    <a href="/" className="footer-anchor">HUF demat account</a> <br/>
+                    <a href="/" className="footer-anchor">Commodity</a> <br/>
+                    <a href="/" className="footer-anchor">Dematerialisation</a> <br/>
+                    <a href="/" className="footer-anchor">Fund transfer</a> <br/>
+                    <a href="/" className="footer-anchor">MTF</a>
 
                 </div>
                 <div className='col'>
                     <p>Support</p>
-                    <a href="" className="footer-anchor">Contact us</a> <br/>
-                    <a href="" className="footer-anchor">Support portal</a> <br/>
-                    <a href="" className="footer-anchor">How to file a complaint?</a> <br/>
-                    <a href="" className="footer-anchor">Status of your complaints</a> <br/>
-                    <a href="" className="footer-anchor">Bulletin</a> <br/>
-                    <a href="" className="footer-anchor">Circular</a> <br/>
-                    <a href="" className="footer-anchor">Z-Connect blog</a> <br/>
-                    <a href="" className="footer-anchor">Downloads</a>
+                    <a href="///" className="footer-anchor">Contact us</a> <br/>
+                    <a href="///" className="footer-anchor">Support portal</a> <br/>
+                    <a href="///" className="footer-anchor">How to file a complaint?</a> <br/>
+                    <a href="///" className="footer-anchor">Status of your complaints</a> <br/>
+                    <a href="///" className="footer-anchor">Bulletin</a> <br/>
+                    <a href="///" className="footer-anchor">Circular</a> <br/>
+                    <a href="///" className="footer-anchor">Z-Connect blog</a> <br/>
+                    <a href="///" className="footer-anchor">Downloads</a>
                 </div>
 
                 <div className='col'>
                     <p>Compony</p>
-                    <a href="" className="footer-anchor">About</a> <br/>
-                    <a href="" className="footer-anchor">Philosophy</a> <br/>
-                    <a href="" className="footer-anchor">Press & media</a> <br/>
-                    <a href="" className="footer-anchor">Careers</a> <br/>
-                    <a href="" className="footer-anchor">Zerodha Cares (CSR)</a> <br/>
-                    <a href="" className="footer-anchor">Zerodha.tech</a> <br/>
-                    <a href="" className="footer-anchor">Open source</a> <br/>
-                    <a href="" className="footer-anchor">Referral program</a>
+                    <a href="//" className="footer-anchor">About</a> <br/>
+                    <a href="//" className="footer-anchor">Philosophy</a> <br/>
+                    <a href="//" className="footer-anchor">Press & media</a> <br/>
+                    <a href="//" className="footer-anchor">Careers</a> <br/>
+                    <a href="//" className="footer-anchor">Zerodha Cares (CSR)</a> <br/>
+                    <a href="//" className="footer-anchor">Zerodha.tech</a> <br/>
+                    <a href="//" className="footer-anchor">Open source</a> <br/>
+                    <a href="//" className="footer-anchor">Referral program</a>
                 </div>
                 <div className='col'>
                     <p>Quick links</p>
-                    <a href="" className="footer-anchor">Upcoming IPOs</a> <br/>
-                    <a href="" className="footer-anchor">Brokerage charges</a> <br/>
-                    <a href="" className="footer-anchor">Market holidays</a> <br/>
-                    <a href="" className="footer-anchor">Economic calendar</a> <br/>
-                    <a href="" className="footer-anchor">Calculators</a> <br/>
-                    <a href="" className="footer-anchor">Markets</a> <br/>
-                    <a href="" className="footer-anchor">Sectors</a> <br/>
-                    <a href="" className="footer-anchor">Gift Nifty</a>
+                    <a href="/" className="footer-anchor">Upcoming IPOs</a> <br/>
+                    <a href="/" className="footer-anchor">Brokerage charges</a> <br/>
+                    <a href="/" className="footer-anchor">Market holidays</a> <br/>
+                    <a href="/" className="footer-anchor">Economic calendar</a> <br/>
+                    <a href="/" className="footer-anchor">Calculators</a> <br/>
+                    <a href="/" className="footer-anchor">Markets</a> <br/>
+                    <a href="/" className="footer-anchor">Sectors</a> <br/>
+                    <a href="/" className="footer-anchor">Gift Nifty</a>
                 </div>
             </div>
             <div className='row mt-5'>
@@ -79,14 +79,14 @@ function Footer() {
             <div className='row'>
                 <div className='col'></div>
                 <div className='col'></div>
-                <div className='col'><a href="" className='footer-anchor'>NSE</a></div>
-                <div className='col'><a href="" className='footer-anchor'>BSE</a></div>
-                <div className='col'><a href="" className='footer-anchor'>Terms&conditions</a></div>
-                <div className='col'><a href="" className='footer-anchor'>Policies&procedures</a></div>
-                <div className='col'><a href="" className='footer-anchor'>Privacy_policy</a></div>
-                <div className='col'><a href="" className='footer-anchor'> Disclosure</a></div>
-                <div className='col'><a href="" className='footer-anchor'>For_investor's_attension</a></div>
-                <div className='col'><a href="" className='footer-anchor'>Investor_charter</a></div>
+                <div className='col'><a href="/" className='footer-anchor'>NSE</a></div>
+                <div className='col'><a href="/" className='footer-anchor'>BSE</a></div>
+                <div className='col'><a href="/" className='footer-anchor'>Terms&conditions</a></div>
+                <div className='col'><a href="/" className='footer-anchor'>Policies&procedures</a></div>
+                <div className='col'><a href="/" className='footer-anchor'>Privacy_policy</a></div>
+                <div className='col'><a href="/" className='footer-anchor'> Disclosure</a></div>
+                <div className='col'><a href="/" className='footer-anchor'>For_investor's_attension</a></div>
+                <div className='col'><a href="/" className='footer-anchor'>Investor_charter</a></div>
                 <div className='col'></div>
             </div>
         </div>
