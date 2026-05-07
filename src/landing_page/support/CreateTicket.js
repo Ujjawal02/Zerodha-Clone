@@ -15,15 +15,15 @@ function CreateTicket() {
                     type="button"
                     data-bs-toggle="collapse"
                     data-bs-target="#collapseZero"
-                    arail-expanded="false"
-                    arial-controls="collapseZero"
+                    aria-expanded="false"
+                    aria-controls="collapseZero"
                   >
-                    <i class="fa fa-plus-circle" aria-hidden="true"> </i>&nbsp; &nbsp;Account opening
+                    <i className="fa fa-plus-circle" aria-hidden="true"> </i>&nbsp; &nbsp;Account opening
                   </button>
                 </h2>
                 <div
                   id="collapseZero"
-                  className="accordion-collapse collapse"
+                  className="accordion-collapse collapse show"
                   aria-labelledby="headingZero"
                   data-bs-parent="#supportAccordion"
                 >
@@ -56,16 +56,16 @@ function CreateTicket() {
                     type="button"
                     data-bs-toggle="collapse"
                     data-bs-target="#collapseOne"
-                    arail-expanded="true"
-                    arial-controls="collapseOne"
+                    aria-expanded="false"
+                    aria-controls="collapseOne"
                   >
-                    <i class="fa-solid fa-user"></i> &nbsp; &nbsp;Your Zerodha Account
+                    <i className="fa-solid fa-user"></i> &nbsp; &nbsp;Your Zerodha Account
                   </button>
                 </h2>
                 <div
                   id="collapseOne"
                   className="accordion-collapse collapse"
-                  aria-labelledby="headingOne"
+                  aria-labelledby="headerOne"
                   data-bs-parent="#supportAccordion"
                 >
                   <div className="accordion-body">
@@ -103,10 +103,10 @@ function CreateTicket() {
                     type="button"
                     data-bs-toggle="collapse"
                     data-bs-target="#collapseTwo"
-                    arail-expanded="false"
-                    arial-controls="collapseTwo"
+                    aria-expanded="false"
+                    aria-controls="collapseTwo"
                   >
-                    <i class="fa-solid fa-drum"></i> &nbsp; &nbsp;Kite
+                    <i className="fa-solid fa-drum"></i> &nbsp; &nbsp;Kite
                   </button>
                 </h2>
                 <div
@@ -147,10 +147,10 @@ function CreateTicket() {
                     type="button"
                     data-bs-toggle="collapse"
                     data-bs-target="#collapseThree"
-                    arail-expanded="false"
-                    arial-controls="collapseTwo"
+                    aria-expanded="false"
+                    aria-controls="collapseThree"
                   >
-                    <i class="fa-solid fa-indian-rupee-sign"></i> Funds
+                    <i className="fa-solid fa-indian-rupee-sign"></i> Funds
                   </button>
                 </h2>
                 <div
@@ -185,10 +185,10 @@ function CreateTicket() {
                     type="button"
                     data-bs-toggle="collapse"
                     data-bs-target="#collapseFour"
-                    arail-expanded="false"
-                    arial-controls="collapseTwo"
+                    aria-expanded="false"
+                    aria-controls="collapseFour"
                   >
-                    <i class="fa-solid fa-gamepad"></i> &nbsp; &nbsp;Console
+                    <i className="fa-solid fa-gamepad"></i> &nbsp; &nbsp;Console
                   </button>
                 </h2>
                 <div
@@ -228,15 +228,15 @@ function CreateTicket() {
                     type="button"
                     data-bs-toggle="collapse"
                     data-bs-target="#collapseFive"
-                    arail-expanded="false"
-                    arial-controls="collapseTwo"
+                    aria-expanded="false"
+                    aria-controls="collapseFive"
                   >
-                    <i class="fa-solid fa-coins"></i>&nbsp; &nbsp; Coin
+                    <i className="fa-solid fa-coins"></i>&nbsp; &nbsp; Coin
                   </button>
                 </h2>
                 <div
                   id="collapseFive"
-                  className="accordion-collapse collapse show"
+                  className="accordion-collapse collapse"
                   aria-labelledby="headingFive"
                   data-bs-parent="#supportAccordion"
                 >
